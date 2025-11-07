@@ -1,0 +1,23 @@
+{
+  "name": "scraping-dubaichrono",
+  "version": "1.0.0",
+  "description": "Scraper for dubaichrono.com collections using HTTP requests",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "scraper",
+    "woocommerce",
+    "watches"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
+
